@@ -1,4 +1,4 @@
-# OptionStrategyVisualiser
+# Option Strategy Visualiser (OSV)
 Shows the P&amp;L chart of any options trading strategy of up to 6 legs:
 - Legs 1-4: Options contracts
 - Leg 5: Equity shares
